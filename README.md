@@ -27,8 +27,8 @@ the models to building and training them in practice.
 
 ## 📫 Contact
 
-- Email: your.email@example.com
-- Telegram: [@your_username](https://t.me/your_username)
+- Email: churyaev2007@gmail.com
+- Telegram: [@ichuryaev](https://t.me/ichuryaev)
 
 ---
 
